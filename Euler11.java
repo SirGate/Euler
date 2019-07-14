@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Euler11 { 
+public class Solution{ 
     
 private static int resolve(int[][]grid,int i,int j){
     int result=0;
